@@ -32,3 +32,9 @@ The client connects to the server using the local host address and the specified
 * Ensure the server is running and accessible.
 * Check for any error messages displayed by the client application.
 
+## About
+* TCP client is a program or a device that initiates a connection to a TCP server.
+* It sends connection requests to the server's IP address and port number.
+* Once the connection is established, the client can send data to and receive data from the server.
+* Clients are the consumers of services provided by servers. They can connect to various servers across networks to request and receive specific services or information.
+
